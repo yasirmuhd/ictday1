@@ -1,0 +1,12 @@
+var fr = ["mango","apple","banana",11];
+console.log(fr);
+fr[4]="pinapple";
+console.log(fr);
+fr.push("grape");
+console.log(fr);
+fr.pop();
+console.log(fr);
+fr.shift();
+console.log(fr);
+fr.unshift("gr");
+console.log(fr);
